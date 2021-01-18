@@ -31,7 +31,7 @@ You can find a full list of what YOLO trained on the COCO dataset can detect <a 
 - `python yolo.py --image images/baggage_claim.jpg`
 
 ## Screenshots
-![Image](/Object%20dection%20using%20image/1.png)
+
 <img src="https://github.com/NikhilSharma07/Object-Detection/blob/master/Object%20dection%20using%20image/1.png">
 Here you can see that YOLO has not only detected each person in the input image, but also the suitcases as well!
 
